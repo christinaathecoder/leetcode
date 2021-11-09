@@ -1,5 +1,6 @@
 # easy problems
-leetcode easy problems solved using java 
+leetcode easy problems solved using java
+
 all solutions have passed 100% of tests
 ### includes so far:
 1. Two Sum
