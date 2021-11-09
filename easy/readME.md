@@ -18,3 +18,4 @@ all solutions have passed 100% of tests
 69. Sqrt(x)
 83. Remove Duplicates from Sorted List
 125. Valid Palindrome
+136. Single Number
