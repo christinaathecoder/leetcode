@@ -19,6 +19,6 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 > 3. 2 steps + 1 step
 
 #### constraints:
-* 1 <= n <= 45
+* `1 <= n <= 45`
 
 **source:** https://leetcode.com/problems/climbing-stairs/
