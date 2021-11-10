@@ -20,25 +20,25 @@ C can be placed before D (500) and M (1000) to make 400 and 900.
 Given a roman numeral, convert it to an integer.
 
 #### example 1:
-> **input:** s = "III"
+> **input:** s = "III"  
 > **output:** 3
 
 #### example 2:
-> **input:** s = "IV"
+> **input:** s = "IV"  
 > **output:** 4
 
 #### example 3:
-> **input:** s = "IX"
+> **input:** s = "IX"  
 > **output:** 9
 
 #### example 4:
-> **input:** s = "LVIII"
-> **output:** 58
+> **input:** s = "LVIII"  
+> **output:** 58  
 > **explanation:** L = 50, V= 5, III = 3.
 
 #### example 5:
-> **input:** s = "MCMXCIV"
-> **output:** 1994
+> **input:** s = "MCMXCIV"  
+> **output:** 1994  
 > **explanation:** M = 1000, CM = 900, XC = 90 and IV = 4.
 
 #### constraints:
