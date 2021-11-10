@@ -3,12 +3,12 @@ Write a function to find the longest common prefix string amongst an array of st
 If there is no common prefix, return an empty string "".
 
 #### example 1:
-> **input:** strs = ["flower","flow","flight"]
+> **input:** strs = ["flower","flow","flight"]  
 > **output:** "fl"
 
 ##### example 2:
-> **input:** strs = ["dog","racecar","car"]
-> **output:** ""
+> **input:** strs = ["dog","racecar","car"]  
+> **output:** ""  
 > **explanation:** There is no common prefix among the input strings.
 
 #### constraints:
