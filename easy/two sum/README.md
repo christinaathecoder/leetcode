@@ -17,9 +17,9 @@ You can return the answer in any order.
 > **output:** [0,1]
 
 #### constraints:
-* 2 <= nums.length <= 104
-* -109 <= nums[i] <= 109
-* -109 <= target <= 109
+* `2 <= nums.length <= 104`
+* `-109 <= nums[i] <= 109`
+* `-109 <= target <= 109`
 * only one valid answer exists.
 
 **source:** https://leetcode.com/problems/two-sum/
