@@ -21,6 +21,6 @@ An integer is a palindrome when it reads the same backward as forward. For examp
 > **output:** false
 
 #### constraints:
-* -231 <= x <= 231 - 1
+* `-231 <= x <= 231 - 1`
 
 **source:** https://leetcode.com/problems/palindrome-number/
