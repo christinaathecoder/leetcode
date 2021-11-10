@@ -3,20 +3,20 @@ leetcode easy problems solved using java
 
 all solutions have passed 100% of tests
 ### includes so far:
-1. Two Sum
-9. Palindrome Number
-13. Roman to Integer
-14. Longest Common Prefix
-20. Valid Parentheses
-21. Merge Two Sorted Lists
-26. Remove Duplicates from Sorted Array
-27. Remove Element
-28. Implement strStr()
-35. Search Insert Position
-58. Length of Last Word
-66. Plus One
-67. Add Binary
-69. Sqrt(x)
-83. Remove Duplicates from Sorted List
-125. Valid Palindrome
-136. Single Number
+* Two Sum (#1)
+* Palindrome Number (#9)
+* Roman to Integer (#13)
+* Longest Common Prefix (#14)
+* Valid Parentheses (#20)
+* Merge Two Sorted Lists (#21)
+* Remove Duplicates from Sorted Array (#26)
+* Remove Element (#27)
+* Implement strStr() (#28)
+* Search Insert Position (#35)
+* Length of Last Word (#58)
+* Plus One (#66)
+* Add Binary (#67)
+* Sqrt(x) (#69)
+* Remove Duplicates from Sorted List (#83)
+* Valid Palindrome (#125)
+* Single Number (#136)
