@@ -15,6 +15,7 @@ all solutions have passed 100% of tests
 35. Search Insert Position
 58. Length of Last Word
 66. Plus One
+67. Add Binary
 69. Sqrt(x)
 83. Remove Duplicates from Sorted List
 125. Valid Palindrome
