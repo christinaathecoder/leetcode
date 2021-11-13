@@ -1,6 +1,8 @@
 /**
  * @author christinaadanks
+ * runtime: 1ms
  */
+
 class RemoveDupsSortedArr {
     public int removeDuplicates(int[] nums) {
         int k = 0;
