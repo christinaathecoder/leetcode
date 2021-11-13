@@ -2,6 +2,7 @@ package com.company;
 
 /**
  * @author christinaadanks
+ * runtime: 0ms
  */
 
 public class MergeSortedArray {
