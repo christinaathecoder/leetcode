@@ -1,3 +1,6 @@
+/**
+ * @author christinaadanks
+ */
 public class ClimbingStairs {
     public static int climbStairs(int n)   {
         //array for combinations
