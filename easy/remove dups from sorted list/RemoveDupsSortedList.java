@@ -8,6 +8,9 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+/**
+ * @author christinaadanks
+ */
 class RemoveDupsSortedList {
     public ListNode deleteDuplicates(ListNode head) {
         ListNode h = head;
