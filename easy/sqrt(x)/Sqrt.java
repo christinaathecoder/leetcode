@@ -1,6 +1,8 @@
 /**
  * @author christinaadanks
+ * runtime: 1ms
  */
+
 class Sqrt {
     public int mySqrt(int x) {
         if (x == 0) {
