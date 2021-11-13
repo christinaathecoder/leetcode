@@ -1,3 +1,6 @@
+/**
+ * @author christinaadanks
+ */
 class ValidPalindrome {
     public boolean isPalindrome(String s) {
         String reverse = "";
