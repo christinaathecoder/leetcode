@@ -1,6 +1,8 @@
 /**
  * @author christinaadanks
+ * runtime: 6ms
  */
+
 class PalindromeNum {
     public boolean isPalindrome(int x) {
         int reverse = 0;
