@@ -1,5 +1,7 @@
 package com.company;
-
+/**
+ * @author christinaadanks
+ */
 public class AddBinary {
     public static String addBinary (String a, String b)    {
         String result = "";
