@@ -1,3 +1,7 @@
+/**
+ * @author christinaadanks
+ */
+
 class LCP {
     public String longestCommonPrefix(String[] strs) {
         StringBuilder prefix = new StringBuilder("");
