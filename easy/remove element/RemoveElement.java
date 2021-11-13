@@ -1,6 +1,8 @@
 /**
  * @author christinaadanks
+ * runtime: 0ms
  */
+
 class RemoveElement {
     public int removeElement(int[] nums, int val) {
         int a = 0;
