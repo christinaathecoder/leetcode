@@ -1,3 +1,6 @@
+/**
+ * @author christinaadanks
+ */
 class ImplementStr {
     public int strStr(String haystack, String needle) {
         int count = 0;
