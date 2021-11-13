@@ -1,6 +1,8 @@
 /**
  * @author christinaadanks
+ * runtime: 2ms
  */
+
 class ValidParentheses {
     public boolean isValid(String s) {
         HashMap<Character, Character> map = new HashMap<>();
