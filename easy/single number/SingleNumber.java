@@ -1,3 +1,6 @@
+/**
+ * @author christinaadanks
+ */
 class SingleNumber {
     public int singleNumber(int[] nums) {
         if (nums.length == 1)   {
