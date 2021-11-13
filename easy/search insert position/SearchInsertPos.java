@@ -1,3 +1,6 @@
+/**
+ * @author christinaadanks
+ */
 class SearchInsertPos {
     public int searchInsert(int[] nums, int target) {
         if (target == 0 && nums[0] > 0)    {
