@@ -1,6 +1,8 @@
 /**
  * @author christinaadanks
+ * runtime: 1ms
  */
+
 class TwoSum {
     public static int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> numMap = new HashMap<Integer, Integer>();
