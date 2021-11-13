@@ -1,3 +1,6 @@
+/**
+ * @author christinaadanks
+ */
 class RomanInt {
     public int romanToInt(String s) {
         int total = 0;
