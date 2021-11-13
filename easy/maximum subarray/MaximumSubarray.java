@@ -1,6 +1,8 @@
 /**
  * @author christinaadanks
+ * runtime: 1ms
  */
+
 public class MaximumSubarray {
     public static int maxSubArray(int[] nums)  {
         int start = 0; //start of max subarray
