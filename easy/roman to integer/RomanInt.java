@@ -1,6 +1,8 @@
 /**
  * @author christinaadanks
+ * runtime: 4ms
  */
+
 class RomanInt {
     public int romanToInt(String s) {
         int total = 0;
