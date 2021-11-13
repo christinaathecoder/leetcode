@@ -1,4 +1,9 @@
 /**
+ * @author christinaadanks
+ * runtime: 0ms
+ */
+
+/**
  * Definition for singly-linked list.
  * public class ListNode {
  *     int val;
@@ -8,9 +13,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-/**
- * @author christinaadanks
- */
+
 class MergeSortedList {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode start = new ListNode(0);
