@@ -1,5 +1,6 @@
 /**
  * @author christinaadanks
+ * runtime: 1ms
  */
 
 class LCP {
