@@ -1,7 +1,9 @@
 package com.company;
 /**
  * @author christinaadanks
+ * runtime: 7ms
  */
+
 public class AddBinary {
     public static String addBinary (String a, String b)    {
         String result = "";
