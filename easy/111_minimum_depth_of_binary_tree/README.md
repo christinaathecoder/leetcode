@@ -5,6 +5,8 @@ The minimum depth is the number of nodes along the shortest path from the root n
 
 **note:** A leaf is a node with no children.
 
+![tree](ex_depth.jpeg)
+
 #### example 1:
 > **input:** root = [3,9,20,null,null,15,7]  
 > **output:** 2
