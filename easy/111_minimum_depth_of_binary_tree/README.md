@@ -20,3 +20,7 @@ The minimum depth is the number of nodes along the shortest path from the root n
 * `-1000 <= Node.val <= 1000`
 
 **source:** https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+# solution
+### recursive:
+**time complexity:** O(n), n is the number of nodes
