@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * @author christinaadanks 
+ * @author christinaathecoder 
  * runtime: 2ms
  */
 
