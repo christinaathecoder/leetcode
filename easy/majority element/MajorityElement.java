@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- * @author christinaadanks
+ * @author christinaathecoder
  * runtime: 9ms
  */
 
