@@ -18,5 +18,3 @@ given an integer array `nums`, return `true` if any value appears at least twice
 * `-109 <= nums[i] <= 109`
 
 **source:** https://leetcode.com/problems/contains-duplicate/
-
-*solution by christinaadanks*
